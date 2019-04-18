@@ -20,6 +20,9 @@ public class Specil {
                 ", sname='" + sname + '\'' +
                 ", saim='" + saim + '\'' +
                 ", sprodire='" + sprodire + '\'' +
+
                 '}';
+
+
     }
 }
